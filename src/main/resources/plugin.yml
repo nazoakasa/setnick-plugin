@@ -1,0 +1,9 @@
+name: setnick
+main: src.SetNickPlugin
+version: 1.0
+api-version: 1.13
+commands:
+  setnick:
+    description: Change your nickname
+    usage: /setnick <nickname>
+authors: ["uirusuniki"]
